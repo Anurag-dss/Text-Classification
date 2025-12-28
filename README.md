@@ -136,12 +136,10 @@ A **confusion matrix** shows how well the sentiment analysis model classifies re
 
 **Balanced precision and recall** are important to ensure the model identifies both positive and negative reviews correctly.
 
-### Save and Add to README
 
-```python
-<img width="721" height="541" alt="image" src="https://github.com/user-attachments/assets/e15902e1-b45d-45c8-9e71-d9c5da827bdf" />
+<img width="727" height="534" alt="image" src="https://github.com/user-attachments/assets/6d24362e-0038-42b4-a633-1739f7817f48" />
 
-```
+
 
 ### Interpretation
 
